@@ -12,7 +12,7 @@
 # 1. ✅ **GitHub** — [github.com/Zakieva](https://github.com/Zakieva), README, бейджи ([472d33b](https://github.com/Zakieva/Zakieva/commit/472d33b)).
 # 2. 🔶 **Kaggle** — профиль [ekaterinazakieva](https://www.kaggle.com/ekaterinazakieva) ✅ · Contributor ✅ (Titanic, 28.05) · org [senatorovai](https://www.kaggle.com/senatorovai) ✅ · [Stepik](https://stepik.org/lesson/1748408/step/1?unit=1772790) ⬜.
 # 3. ✅ **ODS.AI** — [ods.ai/users/v0fda9a56a998](https://ods.ai/users/v0fda9a56a998).
-# 4. 🔶 **Фриланс (intro 3.1):** Avito ✅ · [kwork.ru/user/rnjns78](https://kwork.ru/user/rnjns78) ✅ (28.05) · weblancer / work-zilla ⬜.
+# 4. 🔶 **Фриланс (intro 3.1):** Avito ✅ · [kwork.ru/user/rnjns78](https://kwork.ru/user/rnjns78) ✅ · заказ intro 500 ₽ ✅ (28.05) · weblancer / work-zilla ⬜.
 # 5. ⬜ Видео ODS — [Telegram 830/3950](https://t.me/c/1937296927/830/3950).
 #
 # ### 2. Расскажи о себе
@@ -42,7 +42,7 @@
 # 2. ✅ Звезда [upstream](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV) · org SENATOROVAI Public.
 # 3. ✅ `pre-commit install` + run — Passed · скрин + коммит → [765](https://t.me/c/1937296927/765) (26.05).
 # 4. ✅ `log.ipynb` ведётся · push на [fork/Zakieva](https://github.com/Zakieva/Data-Science-For-Beginners-from-scratch-SENATOROV/commits/Zakieva).
-# 5. 🔶 Подписки [issue #291](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course/issues/291) — Kaggle Following 68 ✅ · GitHub group_3 ⬜.
+# 5. ✅ Подписки [issue #291](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course/issues/291) — Kaggle Following 68 ✅ · GitHub group_3 ✅ (28.05).
 #
 # ### 8–18. Ознакомиться (инфо intro)
 # 1. ⬜ Штрафы/бонусы · домашки [4496](https://t.me/c/1937296927/4496) · помощь [2415](https://t.me/c/1937296927/2415) · программа [senatorovai.com/about](https://senatorovai.com/about/) · анонсы [26659](https://t.me/c/1937296927/26659) · активность GitHub (private contributions) · поиск [32274](https://t.me/c/1937296927/26659/32274).
@@ -67,4 +67,5 @@
 # 3. **Following** — 68 на Kaggle (group_3, [issue #291](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course/issues/291)).
 # 4. **Kwork** — профиль [rnjns78](https://kwork.ru/user/rnjns78), специальность HR-аналитик / DS (обучение).
 # 5. **Stepik Contributor** — урок [1748408](https://stepik.org/lesson/1748408/step/1?unit=1772790) ⬜ отметить шаги.
-# 6. **Kwork заказ intro** — кворк РСМ (500 ₽ без допуслуг) — по инструкции в чате.
+# 6. **Kwork заказ intro** — кворк РСМ [50936399](https://kwork.ru/script-programming/50936399/analiz-dannykh-i-vizualizatsiya-na-python), 500 ₽ без допуслуг ✅ оплачен (28.05).
+# 7. **GitHub group_3** — подписки на коллег ✅ (28.05).
