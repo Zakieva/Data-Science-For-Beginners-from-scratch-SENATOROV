@@ -10,7 +10,7 @@
 #
 # ### 1. Регистрация аккаунтов
 # 1. ✅ **GitHub** — [github.com/Zakieva](https://github.com/Zakieva), README, бейджи ([472d33b](https://github.com/Zakieva/Zakieva/commit/472d33b)).
-# 2. 🔶 **Kaggle** — профиль [ekaterinazakieva](https://www.kaggle.com/ekaterinazakieva) ✅ · Contributor ✅ (Titanic, 28.05) · org [senatorovai](https://www.kaggle.com/senatorovai) ✅ · [Stepik](https://stepik.org/lesson/1748408/step/1?unit=1772790) ⬜.
+# 2. ✅ **Kaggle** — [ekaterinazakieva](https://www.kaggle.com/ekaterinazakieva) · Contributor · org [senatorovai](https://www.kaggle.com/senatorovai) · [Stepik](https://stepik.org/lesson/1748408/step/1?unit=1772790) ✅ (28.05).
 # 3. ✅ **ODS.AI** — [ods.ai/users/v0fda9a56a998](https://ods.ai/users/v0fda9a56a998).
 # 4. 🔶 **Фриланс (intro 3.1):** Avito ✅ · [kwork.ru/user/rnjns78](https://kwork.ru/user/rnjns78) ✅ · заказ intro 500 ₽ ✅ (28.05) · weblancer / work-zilla ⬜.
 # 5. ⬜ Видео ODS — [Telegram 830/3950](https://t.me/c/1937296927/830/3950).
@@ -66,6 +66,6 @@
 # 2. **Org senatorovai** — Successfully joined organization.
 # 3. **Following** — 68 на Kaggle (group_3, [issue #291](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-course/issues/291)).
 # 4. **Kwork** — профиль [rnjns78](https://kwork.ru/user/rnjns78), специальность HR-аналитик / DS (обучение).
-# 5. **Stepik Contributor** — урок [1748408](https://stepik.org/lesson/1748408/step/1?unit=1772790) ⬜ отметить шаги.
+# 5. **Stepik Contributor** — [1748408](https://stepik.org/lesson/1748408/step/1?unit=1772790) ✅ (28.05).
 # 6. **Kwork заказ intro** — кворк РСМ [50936399](https://kwork.ru/script-programming/50936399/analiz-dannykh-i-vizualizatsiya-na-python), 500 ₽ без допуслуг ✅ оплачен (28.05).
 # 7. **GitHub group_3** — подписки на коллег ✅ (28.05).
